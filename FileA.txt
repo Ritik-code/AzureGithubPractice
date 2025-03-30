@@ -1,2 +1,7 @@
 This is file A.
+<<<<<<< HEAD
 This is change for master branch.
+=======
+This changes is made for FeatureA branch.
+New changes for squash mege in FeatureA
+>>>>>>> FeatueA
